@@ -1,0 +1,119 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	font-family: "微软雅黑"
+}
+a:hover {
+	text-decoration: none;
+}
+.banner img {
+	max-width: 100%;
+}
+h2 {
+	font-size: 20px
+}
+h3 {
+	font-size: 18px
+}
+h4 {
+	font-size: 16px
+}
+h5 {
+	font-size: 16px
+}
+p {
+	font-size: 13px;
+	padding: 0px 15px;
+}
+.flt {
+	float: left;
+}
+.head {
+	border-bottom: solid 5px #f0eff5
+}
+.title {
+	text-align: center;
+	line-height: 3;
+	color: #fc6ea2;
+}
+.return img {
+	max-width: 100%;
+}
+.position {
+	padding-left: 10%;
+}
+.position h3 {
+	color: #fc6ea2;
+	float: left
+}
+.position .ico {
+	float: left;
+	padding-top: 12px
+}
+
+.cot h5 {
+	float: left;
+	color: #888888;
+	margin-top: 0px;
+	text-indent: 2em;
+	line-height:1.6;
+}
+.cot h4 {
+	float: left;
+	margin-top: 0px;
+}
+.block .cot .stop {
+	width: 60px;
+	height: 30px;
+	border: solid 1px #c5c5c5;
+	float: right;
+	border-radius: 6px;
+	background: url(../images/bg/c_09.jpg) no-repeat 2px 3px;
+	text-align:right;
+	padding-right:5px;
+	color:#fc6ea2;
+	line-height:2
+	
+}
+.interaction{  }
+.interaction .ico{ padding-left:%}
+.interaction .frame{border:solid 1px #f0eff5; border-left:none;}
+
+.interaction  img{ float:left}
+.interaction  h3{ float:left; color:#848484;}
+
+
+
+
+.block .cot .open {
+	width: 60px;
+	height: 30px;
+	border: solid 1px #c5c5c5;
+	float: right;
+	border-radius: 6px;
+	background:url(../images/bg/zk.jpg) no-repeat 2px 3px;
+	text-align:right;
+	padding-right:5px;
+	color:#fc6ea2;
+	line-height:2
+	
+}
+
+.mag{ margin-bottom:15px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

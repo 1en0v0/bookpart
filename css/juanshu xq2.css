@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+img {
+	max-width: 100%;
+}
+* {
+	font-family: "微软雅黑"
+}
+a:hover {
+	text-decoration: none;
+}
+h2 {
+	font-size:1.4em
+}
+h3 {
+	font-size:1.5em
+}
+h4 {
+	font-size:1.2em
+}
+p {
+	font-size:1;
+	padding: 0px 15px;
+}
+.flt {
+	float: left;
+}
+.grey {
+	color: #959595
+}
+.head {
+	border-bottom: solid 5px #f0eff5
+}
+.title {
+	text-align: center;
+	line-height: 3;
+	color: #fc6ea2;
+}
+.return img {
+	max-width: 100%;
+}
+.block {
+	border-bottom: solid 2px #f0eff5;
+	padding-bottom: 20px;
+}
+.block h4 {
+	float: left;
+	margin-top: 0px;
+}
+.details {
+	padding-bottom: 10px;
+}
+.details .ico {
+	width: 127px;
+	height: 34px;
+	position: relative;
+	top: -18px;
+	background: url(../images/bg/xq_02.png) no-repeat;
+}
+.details .ico h2 {
+	margin: 0px;
+	line-height: 1.8;
+	text-align:center;
+	
+	color: #FFF
+}
+.details img {
+	max-width: 100%
+}
+.details h4 {
+	line-height: 1.5
+}

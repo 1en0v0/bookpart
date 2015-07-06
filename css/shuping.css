@@ -1,0 +1,100 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	font-family: "微软雅黑";
+}
+a:hover {
+	text-decoration: none;
+}
+.wd {
+	width: 100%
+}
+.flt {
+	float: left
+}
+.balck {
+	color: #000000;
+}
+.red {
+	color: #fc6ea2
+}
+.grey {
+	color: #878787
+}
+h2 {
+	font-size: 20px
+}
+h3 {
+	font-size: 18px
+}
+h4 {
+	font-size: 16px
+}
+h5 {
+	font-size: 14px
+}
+p {
+	font-size: 12px
+}
+.hid {
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis
+}
+.return img {
+	max-width: 100%;
+}
+.title {
+	text-align: center;
+	line-height: 3;
+	color: #fc6ea2;
+}
+.more img {
+	max-width: 100%;
+}
+.Classification {
+	border-top: solid 5px #f0eff5;
+	border-left: solid 6px #f0eff5;
+	border-right: solid 6px #f0eff5;
+}
+.Classification div {
+	text-align: center;
+	color: #fc6ea2;
+	font-size: 18px;
+	padding-bottom: 8px;
+	line-height: 2.3;
+}
+.Classification div:hover {
+	background: url(../images/bg/bj_03.png) no-repeat 50% 0px;
+	color: #FFF;
+}
+.now {
+	background: url(../images/bg/bj_03.png) no-repeat 50% 0px;
+}
+.block {
+	border-top: solid 3px #f0eff5;
+	border-left: solid 6px #f0eff5;
+	border-right: solid 6px #f0eff5;
+	padding: 10px;
+}
+.block .cot{ padding-left:3%; }
+.block .cot p{width:170px}
+.book_name {
+	margin-top: 0px;
+}
+.zambia {
+	overflow: hidden;
+	margin-top: 7%;
+}
+.zambia div {
+	margin-right: 15px;
+	float: left
+}
+.zambia div img {
+	float: left
+}
+.zambia div h5 {
+	float: left;
+	color: #fc6ea2;
+	margin: 5px 0px 0px 3px;
+}

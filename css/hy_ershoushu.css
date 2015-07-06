@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+.block {
+	border-bottom: solid 2px #f0eff5
+}
+.block .button {
+	width: 70px;
+	height: 30px;
+	border-radius: 8px;
+	border: solid 1px #aaaaaa;
+	text-align: center;
+	line-height: 2;
+	color: #666666;
+	margin-bottom: 4px;
+}

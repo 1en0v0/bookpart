@@ -1,0 +1,177 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	font-family: "微软雅黑"
+}
+a:hover {
+	text-decoration: none
+}
+h1 {
+	font-size: 1.45em
+}
+h2 {
+	font-size: 1.25em
+}
+h3 {
+	font-size: 1.125em
+}
+h4 {
+	font-size: 0.875em
+}
+p {
+	font-size: 0.8125em;
+	padding: 0px 15px;
+}
+.flt {
+	float: left;
+}
+.frt {
+	float: right
+}
+.red {
+	color: #fc6ea2
+}
+.grey {
+	color: #5c5c5c
+}
+.blue {
+	color: #4ec1ff
+}
+.hid {
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis
+}
+.pdg {
+	padding: 0px
+}
+.head {
+	border-bottom: solid 5px #f0eff5
+}
+.title {
+	text-align: center;
+	line-height: 3;
+	color: #fc6ea2;
+}
+.return img {
+	max-width: 100%;
+}
+.author {
+	border-bottom: solid 1px #f0eff5;
+}
+.author .pit {
+	padding: 25px 0px 0px 5px;
+}
+.author .col-xs-8 {
+	padding-right: 5px
+}
+.author .col-xs-8 h3 {
+	margin-bottom: 20px
+}
+.author .col-xs-4 img {
+	max-width: 100%
+}
+.author div[class^=col-xs-4] {
+	text-align: center;
+}
+.author .bdr {
+	border-left: solid 1px #f0eff5;
+	padding: 0px
+}
+.author .bdr h3 {
+	margin: 10px 0px;
+	color: #5c5c5c;
+}
+.author .bdr img {
+	max-width: 50%
+}
+.cot h2 {
+	line-height: 1.4
+}
+.theme {
+	border-bottom: solid 1px #f0eff5;
+	padding: 0px 10px 10px 10px
+}
+.theme h2 {
+	float: left;
+	margin: 10px 0px 0px 0px
+}
+.button {
+	overflow: hidden;
+	margin-top: 20px
+}
+.button .img {
+	float: left;
+}
+.button img {
+	max-width: 80%
+}
+.button h3 {
+	float: left;
+	margin-top: 5px
+}
+.wrt {
+	width: 60px;
+	height: 30px;
+	border: solid 1px #fc6ea2;
+	border-radius: 5px;
+	text-align: center;
+	line-height: 2;
+	color: #fc6ea2;
+	margin-top: 5px
+}
+.floor {
+	overflow: hidden;
+	padding: 15px 5px 0px 5px;
+	margin-top: 15px;
+	border-top: solid 1px #f0eff5;
+}
+.floor img {
+	max-width: 85%
+}
+.floor .img {
+	width: 70px;
+	height: 60px
+}
+.floor .name h2 {
+	margin-top: 0px
+}
+.floor .name h3 {
+	margin-top: 0px
+}
+.floor .time h3 {
+	margin-top: 0px
+}
+.floor .time img {
+	max-width: 70%
+}
+.more {
+	width: 95px;
+	height: 60px;
+	background: url(../images/bg/gr_03.jpg) no-repeat right 0px;
+	font-size: 1.25em;
+	line-height: 3.4;
+	margin: 0px auto;
+}
+a {
+	color: #fc6ea2
+}
+.comment .bdr {
+	border-top: solid 1px #f0eff5;
+	border-bottom: solid 3px #f0eff5;
+	margin-top: 10px
+}
+.publish {
+	padding-bottom: 20px
+}
+.publish .button {
+	width: 80px;
+	height: 35px;
+	background: #fc6ea2;
+	border-radius: 5px;
+	text-align: center;
+	line-height: 2.3;
+	color: #FFF;
+	font-size:1.15em;
+	margin-bottom: 20px;
+}

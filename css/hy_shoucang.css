@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+.block {
+	overflow: hidden;
+	padding:14px 0px;
+	border-bottom:solid 1px #f0eff5;
+}
+.block img {
+	max-width: 100%
+}
+.block .cot {
+	padding-left: 10px;
+}
+.block h2 {
+	margin-top: 0px
+}
+.block p {
+	text-indent: 2em;
+	color: #666666;
+	margin:0px
+}
+.pag {
+	padding-left: 0px
+}
+.cancel {
+	width: 70px;
+	height: 30px;
+	border-radius: 8px;
+	border: solid 1px #aaaaaa;
+	text-align: center;
+	line-height: 2;
+	color: #666666
+}

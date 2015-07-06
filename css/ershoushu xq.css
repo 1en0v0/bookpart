@@ -1,0 +1,160 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	font-family: "微软雅黑"
+}
+a:hover {
+	text-decoration: none;
+}
+.flt {
+	float: left
+}
+.block {
+	color: #323232
+}
+.blue {
+	color: #4ec1ff
+}
+.red {
+	color: #fc6ea2
+}
+.grey {
+	color: #717072
+}
+/*img {
+	max-width: 100%
+}*/
+h1 {
+	font-size: 1.5em
+}
+h2 {
+	font-size: 1.375em
+}
+h3 {
+	font-size: 1.25em
+}
+h4 {
+	font-size: 1.25em
+}
+h5 {
+	font-size: 1.125em
+}
+h6 {
+	font-size: 0.875em
+}
+.hid {
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis
+}
+.head {
+	border-bottom: solid 3px #f0eff5
+}
+.title {
+	text-align: center;
+	line-height: 3;
+}
+.interaction img {
+	float: left;
+	margin-top: 18px;
+}
+.interaction h3 {
+	float: left;
+	padding-left: 3px;
+}
+.collection {
+	width: 70px;
+	height: 30px;
+	color: #fc6ea2;
+	border: solid 1px #c5c5c5;
+	border-radius: 5px;
+	text-align: right;
+	background: url(../images/bg/er_03.jpg) no-repeat 3px 3px;
+	padding-right: 4px;
+	line-height: 2;
+	margin-top: 15px;
+}
+.block1 {
+	border-bottom: solid 2px #f0eff5
+}
+.block2 {
+	border-bottom: solid 2px #f0eff5;
+	padding-bottom: 30px;
+	
+}
+.block2 h3 {
+	float: left;
+	margin-right: 10px;
+	margin: 10px 0px 0px 0px;
+}
+.block2 h4 {
+	color: #717072;
+	float: left;
+	margin: 10px 15px 0px 0px;
+}
+
+
+
+
+
+.details h5 {
+	line-height: 1.6;
+	text-indent: 2em;
+	text-align: left;
+	margin: 0px;
+	color: #717072
+}
+.details .ico {
+	width: 127px;
+	height: 34px;
+	position: relative;
+	top: -18px;
+	background: url(../images/bg/xq_02.png) no-repeat;
+}
+
+.details .ico h2 {
+  margin: 0px;
+  line-height: 1.8;
+  text-align:center;
+  
+  color: #FFF;
+}
+.details .img{ border-bottom:solid 2px #f0eff5; padding:10px 0px 35px 0px}
+.details .img img{ max-width:100%; }
+
+
+
+.other_books .ico {
+	width: 127px;
+	height: 34px;
+	position: relative;
+	top: -18px;
+	background: url(../images/bg/xq_02.png) no-repeat;
+}
+
+.other_books .ico h2 {
+  margin: 0px;
+  line-height: 1.8;
+  text-align:center;
+ 
+  color: #FFF;
+}
+.other_books .img img{ max-width:100%; padding:10px 0px 20px 0px}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

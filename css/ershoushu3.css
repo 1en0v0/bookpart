@@ -1,0 +1,122 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	font-family: "微软雅黑"
+}
+a:hover {
+	text-decoration: none;
+}
+h2 {
+	font-size:1.25em
+}
+h3 {
+	font-size:1.125em
+}
+h4 {
+	font-size:0.875em
+}
+
+p {
+	font-size:0.8125em;
+	padding:0px 15px;
+}
+.flt {
+	float: left;
+}
+.grey {
+	color: #a5a5a5;
+}
+.blue{
+	color:#4ec1ff
+}
+.hid {
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis
+}
+.pdg{ padding:0px}
+.head {
+	border-bottom: solid 5px #f0eff5
+}
+.title {
+	text-align: center;
+	line-height: 3;
+	color: #fc6ea2;
+}
+.return img{
+	max-width: 100%;
+}
+
+.more img {
+	max-width: 100%;
+}
+.landlord {width:100%}
+
+ 
+.landlord .name {
+ 	padding-left:5px;
+	float:left;
+	color: #fc6ea2;
+	margin-top: 15px;
+	
+}
+.landlord .ico {
+	background: url(../images/bg/er.jpg) no-repeat 0px 9px;
+	width: 21px;
+	height: 33px;
+	display: inline-block;
+	float: left
+}
+.landlord .mag {
+	float:left;
+	
+	margin-top: 1%;
+	margin-left:9%;
+}
+.landlord img {
+	float: left
+}
+.landlord h5 {
+	float: left
+}
+.block{
+	padding:10px 0px;
+	border-bottom: solid 3px #f0eff5;
+	
+	
+}
+
+
+
+
+.block .img img{
+  max-width: 23%;
+  margin: 1%;
+ }
+.block .time{ text-align:right;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

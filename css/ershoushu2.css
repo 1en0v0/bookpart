@@ -1,0 +1,101 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	font-family: "微软雅黑"
+}
+a:hover {
+	text-decoration: none;
+}
+h2 {
+	font-size:1.25em
+}
+h3 {
+	font-size: 1.125em
+}
+h4 {
+	font-size: 0.875em
+}
+h5 {
+	font-size: 0.75em
+}
+p {
+	font-size:0.75em
+}
+.flt {
+	float: left;
+}
+.grey {
+	color: #929292;
+}
+.hid {
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis
+}
+.head {
+	border-bottom: solid 5px #f0eff5
+}
+.title {
+	text-align: center;
+	line-height: 3;
+	color: #fc6ea2;
+}
+.more img {
+	max-width: 100%;
+}
+.block {
+	padding: 10px;
+	border-bottom: solid 3px #f0eff5
+}
+.block .cot {
+	padding-left: 10px;
+}
+.book_name {
+	margin-top: 0px;
+	color: #fc6ea2
+}
+.landlord {
+	margin-top: 10%;
+	overflow: hidden
+}
+.landlord .name {
+	padding-left: 5px;
+	color: #fc6ea2;
+	margin-top: 15px;
+}
+.landlord .face {
+	width: 36px;
+	height: 37px;
+	float: left
+}
+.landlord .ico {
+	background: url(../images/bg/er.jpg) no-repeat 0px 9px;
+	width: 21px;
+	height: 33px;
+	display: inline-block;
+	float: left
+}
+.landlord .place {
+	margin-top: 15px;
+}
+.landlord .mag {
+	margin-left: 10px;
+}
+
+.landlord h5 {
+	float: left
+}
+.price {
+	float: right;
+}
+.price_1 {
+	margin: 0px;
+	color: #4ec1ff;
+	text-align: right;
+}
+.price_2 {
+	margin-top: 3px;
+	text-decoration: line-through;
+	color: #929292;
+	text-align: right;
+}

@@ -1,0 +1,84 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	font-family: "微软雅黑"
+}
+a:hover {
+	text-decoration: none;
+}
+h4 {
+	text-align: center;
+	color: #a3a19f;
+}
+h3 {
+	color: #a3a19f;
+	font-size: 18px;
+}
+.head {
+	border-bottom: #f0eff5 solid 3px;
+	margin-bottom: 25px;
+}
+.return {
+}
+.head .logo {
+	text-align: center;
+}
+.head .logo .loginbar {
+	padding-top: 30px;
+}
+.form-control {
+	height: 40px;
+	font-size: 18px;
+	color: #a3a19f;
+	background: url(../images/bg/sj_08.jpg) no-repeat 4px 4px;
+	padding: 5px 5px 5px 45px;
+}
+.form-contro2 {
+	background: url(../images/bg/mm_08.jpg) no-repeat 4px 4px;
+}
+.forget {
+	text-align: right;
+	padding-bottom: 5px;
+	color: #a3a19f;
+}
+.entry {
+	background-color: #fc6ea2;
+	height: 40px;
+	text-align: center;
+	color: #FFF;
+	font-size: 24px;
+	line-height: 1.7;
+	margin: 0px;
+}
+.registered {
+	height: 40px;
+	border: #fc6ea2 solid 2px;
+	font-size: 24px;
+	line-height: 1.7;
+	text-align: center;
+	color: #fc6ea2;
+	margin-top: 14px;
+	margin: 14px 0px 0px 0px;
+}
+.three {
+	height: 30px;
+	text-align: center;
+	margin: 50px -15px 30px -15px;
+	padding: 0px;
+}
+.three div {
+	border-bottom: #d4d2cf solid 1px;
+	height: 0;
+}
+.three span {
+	display: inline-block;
+	padding: 0 10px;
+	background: #fff;
+	position: relative;
+	top: -14px;
+	color: #a3a19f;
+	font-size: 18px;
+}
+.img {
+	text-align: center;
+}

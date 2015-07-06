@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+.block {
+	padding: 14px 0px;
+	border-bottom: solid 1px #f0eff5;
+}
+.block h1 {
+	line-height: 1.6;
+	color: #000
+}
+.block h3 {
+	margin: 0px
+}
+.open {
+	text-align: right
+}

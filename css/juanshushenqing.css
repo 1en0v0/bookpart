@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	font-family: "微软雅黑"
+}
+a {
+	text-decoration: none
+}
+h2 {
+	font-size: 1.25em
+}
+h3 {
+	font-size: 1.125em
+}
+h4 {
+	font-size: 0.875em
+}
+p {
+	font-size: 0.8125em;
+	padding: 0px 15px;
+}
+.flt {
+	float: left;
+}
+.hid {
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis
+}
+.pdg {
+	padding: 0px
+}
+.head {
+	border-bottom: solid 5px #f0eff5
+}
+.title {
+	text-align: center;
+	line-height: 3;
+	color: #fc6ea2;
+}
+.return img {
+	max-width: 100%;
+}
+.more img {
+	max-width: 100%;
+}
+.data {
+	padding-top: 20px;
+}
+.form-control {
+	height: 50px;
+	font-size: 1.375em;
+	background: #eeeeee;
+	margin-bottom: 25px;
+}
+.mag {
+	margin-bottom: 10px
+}
+.pit {
+	margin-left: 5px
+}
+.pit h2 {
+	float: left;
+	text-decoration: underline;
+	margin-right: 5px
+}
+.pit img {
+	float: left
+}
+.confirm {
+	height: 50px;
+	text-align: center;
+	background: #fc6ea2;
+	color: #FFF;
+	font-size: 1.6em;
+	line-height: 2.2;
+	margin-top: 10px
+}
